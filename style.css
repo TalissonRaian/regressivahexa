@@ -73,7 +73,14 @@ margin-left: 0;
 
 
 @media screen and (min-width: 0) {
-    
+    body{
+        background-image: url(imagens/20056945_brazil_08.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+        font-family:'Aclonica', sans-serif;
+        margin: 0;
+    }
     .titulo{
         font-size: 25px;
     }
